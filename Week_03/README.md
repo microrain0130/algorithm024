@@ -21,7 +21,7 @@ def recursion（level，param1,param2,...):
   self.recursion(level + 1, p1, ...)
 
   # reserse the current level status if needed 清理当前层
-```
+```$$
 
 思维要点
   1、不要人肉进行递归 (最大误区)
